@@ -1,0 +1,9 @@
+.navContainer a {
+  text-decoration: none;
+  margin-left: 10px;
+  color: black;
+}
+
+.navContainer a:hover {
+  color: orange;
+}

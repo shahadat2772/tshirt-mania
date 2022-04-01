@@ -1,0 +1,10 @@
+.grandpa,
+.grandpa div {
+  border: 2px solid goldenrod;
+  margin: 10px;
+  padding: 5px;
+}
+
+.grandpa p {
+  margin: 3px 5px;
+}
